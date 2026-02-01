@@ -1,0 +1,5 @@
+[
+  { "timestamp": "2025-01-31 10:15:00", "level": "INFO", "message": "User login successful" },
+  { "timestamp": "2025-01-31 10:16:10", "level": "ERROR", "message": "Database connection failed" },
+  { "timestamp": "2025-01-31 10:17:20", "level": "WARNING", "message": "High memory usage detected" }
+]
